@@ -1,5 +1,5 @@
 <h1>
-  <img src="assets/images/icon.png" alt="Gitlite icon" width="38" height="38" style="vertical-align: -0.25em; margin-right: 8px;" />
+  <img src="assets/images/icon.png" alt="Gitlite icon" width="38" height="38"  margin-right: 8px;" />
   ByteShell
 </h1>
 
