@@ -16,7 +16,8 @@ ByteShell is a UNIX-like command-line shell written in C. It's a simple shell us
 
 ### Installation
 
-#### Requirements :
+
+**Requirements** :
 
 - **Language**: C  
 - **Compiler**: `gcc` (or any POSIX-compliant C compiler)  
@@ -38,6 +39,8 @@ If everything is set up correctly, you will see the ByteShell prompt:
 ```
 
 ### Usage
+
+
 
 **Builtins implemented:**
 
