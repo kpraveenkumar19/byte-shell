@@ -1,6 +1,10 @@
-## ByteShell
+<h1>
+  <img src="assets/images/icon.png" alt="Gitlite icon" width="38" height="38" style="vertical-align: -0.25em; margin-right: 8px;" />
+  ByteShell
+</h1>
 
-ByteShell is a UNIX-like command-line shell written in C. 
+
+ByteShell is a UNIX-like command-line shell written in C. It's a simple shell used to execute built-in Linux commands.
 
 
 ### Table of Contents
