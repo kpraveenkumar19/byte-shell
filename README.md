@@ -1,5 +1,9 @@
 <h1>
+<<<<<<< HEAD
   <img src="assets/images/icon.png" alt="Gitlite icon" width="38" height="38"  margin-right: 8px;" />
+=======
+  <img src="assets/images/icon.png" alt="ByteShell icon" width="32" height="32" style="vertical-align: middle; margin-right: 8px;" />
+>>>>>>> ef9c4c1 (Add icon)
   ByteShell
 </h1>
 
