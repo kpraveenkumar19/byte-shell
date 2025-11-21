@@ -40,7 +40,7 @@ If everything is set up correctly, you will see the ByteShell prompt:
 
 ### Usage
 
-
+<br>
 
 **Builtins implemented:**
 

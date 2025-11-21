@@ -37,10 +37,9 @@ If everything is set up correctly, you will see the ByteShell prompt:
 ```text
 >
 ```
+<br>
 
 ### Usage
-
-
 
 **Builtins implemented:**
 
@@ -77,3 +76,4 @@ Contributions are welcome! To propose changes:
 1. Fork the repository and create a feature branch
 2. Make your changes
 3. Open a Pull Request with a clear description and examples
+
