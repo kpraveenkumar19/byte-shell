@@ -37,7 +37,6 @@ If everything is set up correctly, you will see the ByteShell prompt:
 ```text
 >
 ```
-<br>
 
 ### Usage
 
