@@ -26,21 +26,12 @@ ByteShell is a UNIX-like command-line shell written in C. It's a simple shell us
 - **Compiler**: `gcc` (or any POSIX-compliant C compiler)  
 - **Environment**: UNIX-like system (Linux, macOS, WSL, etc.)
 
-#### Compilation :
-
-Use the provided compilation command:
-
 ```bash
+# Use the provided compilation command:
 gcc *.c
-```
 
-This compiles all C source files and produces an executable (by default `a.out`).
-
-#### Execution : 
-
-After a successful compilation, run:
-
-```bash
+# This compiles all C source files and produces an executable (by default `a.out`).
+# After a successful compilation, run:
 ./a.out
 ```
 
@@ -52,14 +43,14 @@ If everything is set up correctly, you will see the ByteShell prompt:
 
 ### Usage
 
-#### Builtins implemented :
+**Builtins implemented:**
 
 - **`echo`**: Print its arguments to standard output.
 - **`cd`**: Change the current working directory.
 - **`pwd`**: Print the current working directory.
 - **`exit`**: Exit the shell.
 
-#### Examples :
+**Examples:**
 
 
 ```text
