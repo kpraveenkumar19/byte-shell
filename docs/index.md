@@ -7,14 +7,14 @@
 ByteShell is a UNIX-like command-line shell written in C. It's a simple shell used to execute built-in Linux commands.
 
 
-### Table of Contents
+## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [Resources](#resources)
 - [Contributing](#contributing)
 
 
-### Installation
+## Installation
 
 
 **Requirements** :
@@ -38,7 +38,7 @@ If everything is set up correctly, you will see the ByteShell prompt:
 >
 ```
 
-### Usage
+## Usage
 
 
 **Builtins implemented:**
@@ -64,12 +64,12 @@ hello world
 ```
 
 
-### Resources
+## Resources
 
 - [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 - [Linux Commands Man Pages](https://linuxcommand.org/lc3_man_page_index.php)
 
-### Contributing
+## Contributing
 
 Contributions are welcome! To propose changes:
 
