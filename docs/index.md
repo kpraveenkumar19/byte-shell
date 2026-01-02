@@ -66,8 +66,8 @@ hello world
 
 ## Resources
 
-- [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
-- [Linux Commands Man Pages](https://linuxcommand.org/lc3_man_page_index.php)
+- <a href="https://brennan.io/2015/01/16/write-a-shell-in-c/" target="_blank" rel="noopener noreferrer">Write a Shell in C</a>
+- <a href="https://linuxcommand.org/lc3_man_page_index.php" target="_blank" rel="noopener noreferrer">Linux Commands Man Pages</a>
 
 ## Contributing
 
